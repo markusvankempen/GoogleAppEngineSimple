@@ -10,5 +10,6 @@ public class GooleAppEngineSimplerServlet extends HttpServlet {
 		resp.setContentType("text/plain");
 		resp.getWriter().println("Hello, world Test ");
 		resp.getWriter().println("Branch");
+		resp.getWriter().println("Branch");
 	}
 }
